@@ -1,0 +1,63 @@
+.target {
+    width: 500px;
+    height: auto;
+    /*background: darkgreen;*/
+    margin: auto;
+    flex-wrap: wrap;
+}
+.cartier{
+    width: 500px;
+    height: 60px;
+    background: forestgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border: solid white 1px;
+}
+.nars{
+    width: 500px;
+    height: 50px;
+    background: darkgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border: solid white 1px;
+}
+.versace{
+    width: 500px;
+    height: 250px;
+    /*background: cornflowerblue;*/
+    display: flex;
+}
+.barbie{
+    width: 350px;
+    height: 250px;
+    background: springgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border: solid white 1px;
+}
+.doll{
+    width: 150px;
+    height: 250px;
+    background: limegreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border: solid white 1px;
+}
+.bmw{
+    width: 500px;
+    height: 50px;
+    background: lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border: solid white 1px;
+}
