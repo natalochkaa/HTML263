@@ -1,0 +1,49 @@
+
+.target {
+    width: 800px;
+    height: auto;
+    /*background: hotpink;*/
+    display: flex;
+    /*box-sizing: border-box;*/
+    flex-wrap: wrap;
+    border: groove lightgrey;
+    border-radius: 10px;
+    margin: auto;
+}
+.A{
+    width: 800px;
+    height: 100px;
+    background: lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    border-radius: 10px;
+}
+.versace{
+    width: 800px;
+    height: auto;
+    display: flex;
+}
+.B {
+    width: 600px;
+    height: 400px;
+    background: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    border-radius: 10px;
+}
+.C {
+    width: 200px;
+    height: 400px;
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    border-radius: 10px;
+
+}
+
