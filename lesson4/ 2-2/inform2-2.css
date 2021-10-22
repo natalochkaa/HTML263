@@ -1,0 +1,63 @@
+.target{
+    width: 500px;
+    height: auto;
+    /*background: black;*/
+    margin: auto;
+    /*display: flex;*/
+    flex-wrap: wrap;
+}
+.qwerty{
+    width: 500px;
+    height: 200px;
+    background: dodgerblue;
+    margin-bottom: 17px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.versace{
+    width: 500px;
+    height: 190px;
+    /*background: darkgreen;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.doll{
+    width: 155px;
+    height: 190px;
+    background: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.dolll {
+    width: 155px;
+    height: 190px;
+    background: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.dollll {
+    width: 155px;
+    height: 190px;
+    background: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.barbie {
+    width: 500px;
+    height: 400px;
+    background: dodgerblue;
+    margin-top: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
