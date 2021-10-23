@@ -1,0 +1,144 @@
+.target{
+    width: 250px;
+    height: 600px;
+    /*background: darkblue;*/
+    margin: auto;
+    border: black solid 5px;
+}
+.qwerty {
+    width: 250px;
+    height: 25px;
+    background: white;
+    display: flex;
+    box-sizing: border-box;
+    border-bottom: black solid 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.a {
+    width: 50px;
+    height: 10px;
+    background: lightgrey;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.doll {
+    width: 250px;
+    height: 90px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: black solid 5px;
+}
+
+.b {
+    width: 230px;
+    height: 70px;
+    background: lightgrey;
+}
+.mersedes {
+    width: 250px;
+    height: 140px;
+    background: white;
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: black solid 5px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.D {
+    width: 110px;
+    height: 60px;
+    background: lightgrey;
+}
+.bakerstreet {
+    width: 250px;
+    height: 160px;
+    /*background: red;*/
+    border-bottom: black solid 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 5px;
+}
+
+.G {
+    width: 110px;
+    height: 40px;
+    background: lightgrey;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lol {
+    width: 85px;
+    height: 25px;
+    /*background: darkblue;*/
+    display: flex;
+    justify-content: center;
+}
+
+.F {
+    width: 40px;
+    height: 10px;
+    background: lightgrey;
+}
+.bmw{
+    width: 250px;
+    height: 110px;
+    /*background: red;*/
+    display: flex;
+    border-bottom: black solid 5px;
+}
+.usa{
+    width: 125px;
+    height: 110px;
+    /*background: limegreen;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.m{
+    width: 100px;
+    height: 20px;
+    background: lightgrey;
+
+}
+.versace{
+    width: 125px;
+    height: 110px;
+    /*background: gold;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.v{
+    width: 100px;
+    height: 95px;
+    background: lightgrey;
+}
+.iphone{
+    width: 250px;
+    height: 50px;
+    /*background: red;*/
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 10px;
+}
+.n{
+    width: 230px;
+    height: 10px;
+    background: lightgrey;
+}
+.j{
+    width: 50px;
+    height: 10px;
+    background: lightgray;}
+
