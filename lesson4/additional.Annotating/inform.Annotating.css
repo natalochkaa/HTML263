@@ -1,0 +1,167 @@
+.target {
+    width: 400px;
+    height: 600px;
+    /*background: darkblue;*/
+    margin: auto;
+    border: black solid 5px;
+
+}
+
+.qwerty {
+    width: 400px;
+    height: 20px;
+    background: white;
+    display: flex;
+    border-bottom: black solid 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.a {
+    width: 50px;
+    height: 10px;
+    background: lightgrey;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.versace {
+    width: 400px;
+    height: 575px;
+    /*background: limegreen;*/
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.barbie {
+    width: 60px;
+    height: 575px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    border-right: black solid 5px;
+}
+
+.c {
+    width: 50px;
+    height: 11px;
+    background: lightgrey;
+    border: white solid 5px;
+}
+
+.usa {
+    width: 335px;
+    height: 200px;
+    /*background: red;*/
+}
+
+.doll {
+    width: 335px;
+    height: 130px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: black solid 5px;
+}
+
+.b {
+    width: 320px;
+    height: 110px;
+    background: lightgrey;
+}
+
+.mersedes {
+    width: 335px;
+    height: 60px;
+    background: white;
+    display: flex;
+    border-bottom: black solid 5px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.D {
+    width: 70px;
+    height: 40px;
+    background: lightgrey;
+}
+
+.london {
+    width: 335px;
+    height: 320px;
+    /*background: red;*/
+    display: flex;
+    border-bottom: black solid 5px;
+}
+
+.bakerstreet {
+    width: 250px;
+    height: 320px;
+    /*background: red;*/
+    border-right: black solid 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 5px;
+}
+
+.G {
+    width: 100px;
+    height: 40px;
+    background: lightgrey;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lol {
+    width: 85px;
+    height: 25px;
+    /*background: darkblue;*/
+    display: flex;
+    justify-content: center;
+}
+
+.F {
+    width: 40px;
+    height: 10px;
+    background: lightgrey;
+}
+
+.piccadilly {
+    width: 80px;
+    height: 320px;
+    background: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+
+}
+.q{
+    width: 55px;
+    height: 30px;
+    background: lightgrey;
+    border: white solid 5px;
+}
+.iphone{
+    width: 335px;
+    height: 50px;
+    /*background: red;*/
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 10px;
+}
+.n{
+    width: 310px;
+    height: 10px;
+    background: lightgrey;
+}
+.m{
+    width: 60px;
+    height: 10px;
+    background: lightgray;
+}
