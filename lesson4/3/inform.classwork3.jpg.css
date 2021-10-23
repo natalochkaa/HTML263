@@ -1,0 +1,90 @@
+.target{
+    width: 600px;
+    height: auto;
+    /*background: hotpink;*/
+    margin: auto;
+    border-radius: 10px;
+    border: solid purple;
+    flex-wrap: wrap;
+}
+.nars{
+    width: 600px;
+    height: 100px;
+    background: darkviolet;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: solid white 4px;
+    justify-content: center;
+    align-items: center;
+}
+.qwerty {
+    width: 600px;
+    height: 280px;
+    /*background: darkgreen;*/
+    display: flex;
+}
+.versace{
+    width: 450px;
+    height: 100px;
+    /*background: crimson;*/
+}
+.bmw{
+    width: 450px;
+    height: 100px;
+    background: crimson;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.mersedes{
+    width: 150px;
+    height: 280px;
+    background: cyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.doll{
+    width: 450px;
+    height: 180px;
+    /*background: gold;*/
+    display: flex;
+
+}
+.barbie{
+    width: 150px;
+    height: 180px;
+    background: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: solid white 4px;
+}
+.barbie1{
+    width: 150px;
+    height: 180px;
+    background: darkorange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: solid white 4px;
+}
+.barbie2{
+    width: 150px;
+    height: 180px;
+    background: darkslateblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: solid white 4px;
+}
