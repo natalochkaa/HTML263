@@ -1,0 +1,60 @@
+.target{
+    width: 600px;
+    height: 400px;
+    /*background: forestgreen;*/
+    margin: auto;
+    border: solid red;
+    border-radius: 10px;
+
+}
+.qwerty{
+    width: 600px;
+    height: 100px;
+    background: tomato;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: solid white 3px;
+    border-radius: 10px;
+}
+.versace{
+    width: 600px;
+    height: 300px;
+    /*background: crimson;*/
+    display: flex;
+}
+.barbie{
+    width: 450px;
+    height: 300px;
+    /*background: forestgreen;*/
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.doll{
+    width: 150px;
+    height: 150px;
+    background: firebrick;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: solid white 3px;
+    border-radius: 10px;
+}
+.mersedes{
+    width: 150px;
+    height: 300px;
+    background: tomato;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: solid white 3px;
+    border-radius: 10px;
+}
+
