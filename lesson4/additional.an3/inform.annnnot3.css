@@ -1,0 +1,149 @@
+.chill{
+    width: 150px ;
+    height: 600px;
+    /*background: darkblue;*/
+    margin: auto;
+    border: black solid 5px;
+
+}
+.qwerty {
+    width: 150px;
+    height: 40px;
+    background: white;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    border-bottom: black solid 5px;
+    justify-content: center;
+}
+.o{
+    width: 30px;
+    height: 10px;
+    background: lightgrey;
+    margin-top: 5px;
+}
+.a {
+    width: 140px;
+    height: 10px;
+    background: lightgrey;
+}
+.doll {
+    width: 150px;
+    height: 70px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: black solid 5px;
+}
+
+.b {
+    width: 130px;
+    height: 60px;
+    background: lightgrey;
+}
+.mersedes {
+    width: 150px;
+    height: 90px;
+    background: white;
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: black solid 5px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.D {
+    width: 60px;
+    height: 40px;
+    background: lightgrey;
+}
+.bakerstreet {
+    width: 150px;
+    height: 160px;
+    background: white;
+    border-bottom: black solid 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+}
+
+.G {
+    width: 130px;
+    height: 20px;
+    background: lightgrey;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lol {
+    width: 85px;
+    height: 25px;
+    /*background: darkblue;*/
+    display: flex;
+    justify-content: center;
+}
+
+.F {
+    width: 40px;
+    height: 10px;
+    background: lightgrey;
+}
+.bmw{
+    width: 150px;
+    height: 180px;
+    /*background: red;*/
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: black solid 5px;
+}
+.usa{
+    width: 150px;
+    height: 90px;
+    /*background: darkblue;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.m{
+    width: 130px;
+    height: 20px;
+    background: lightgrey;
+
+}
+.versace{
+    width: 150px;
+    height: 90px;
+    /*background: gold;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.v{
+    width: 130px;
+    height: 80px;
+    background: lightgrey;
+}
+.iphone{
+    width: 150px;
+    height: 35px;
+    /*background: red;*/
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 10px;
+}
+.n{
+    width: 130px;
+    height: 10px;
+    background: lightgrey;
+}
+.j{
+    width: 40px;
+    height: 10px;
+    background: lightgray;
+}
