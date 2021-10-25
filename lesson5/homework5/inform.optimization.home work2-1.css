@@ -1,0 +1,50 @@
+.target {
+    width: 400px;
+    height: auto;
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.mersedes{
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    border: solid black 1px;
+}
+.doll {
+    width: 400px;
+    height: 70px;
+    background: magenta;
+}
+
+.versace {
+    width: 400px;
+    height: auto;
+    display: flex;
+    box-sizing: border-box;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+
+.menu {
+    width: 130px;
+    height: 300px;
+    background: lightgreen;
+    margin-right: 7px;
+}
+
+.qwerty {
+    width: 270px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 7px;
+}
+
+.post {
+    width: 268px;
+    height: 160px;
+    background: lightskyblue;
+}

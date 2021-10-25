@@ -1,0 +1,42 @@
+.target {
+    width: 500px;
+    height: auto;
+    margin: auto;
+}
+
+.qwerty {
+    height: 200px;
+    margin-bottom: 17px;
+}
+
+.mersedes {
+    width: 500px;
+    background: dodgerblue;
+    font-size: 30px;
+}
+
+.versace {
+    width: 500px;
+    height: 190px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.london {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.doll {
+    width: 155px;
+    height: 190px;
+    background: cornflowerblue;
+    font-size: 20px;
+}
+
+.barbie {
+    height: 400px;
+    margin-top: 17px;
+}

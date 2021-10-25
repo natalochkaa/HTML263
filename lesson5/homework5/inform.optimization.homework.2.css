@@ -1,0 +1,47 @@
+.target {
+    height: auto;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.wid {
+    width: 500px;
+}
+.hei{
+    height: 250px ;
+}
+.mersedes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border: solid white 1px;
+}
+
+.cartier {
+    height: 60px;
+    background: forestgreen;
+}
+
+.nars {
+    height: 50px;
+    background: darkgreen;
+}
+
+.versace {
+    display: flex;
+}
+
+.barbie {
+    width: 350px;
+    background: springgreen;
+}
+
+.doll {
+    width: 150px;
+    background: limegreen;
+}
+
+.bmw {
+    height: 50px;
+    background: lightgreen;
+}
