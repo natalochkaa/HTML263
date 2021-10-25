@@ -2,13 +2,24 @@
     width: 600px;
     height: 470px;
     margin: auto;
-    display: flex;
     box-sizing: border-box;
-    flex-wrap: wrap;
-    justify-content: center;
+
 }
 .hei{
     height: 5px;
+}
+.ween{
+    display: flex;
+    justify-content: space-between;
+}
+.und{
+    display: flex;
+    justify-content: space-around;
+}
+.ex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .day{
     background: lightblue;
@@ -19,56 +30,45 @@
 .bord{
     border-radius: 20px;
 }
+.wid{
+    width: 100px;
+    height: 100px;
+}
+.ght{
+    height: 10px;
+}
 .versace{
     width: 500px;
     height: 200px;
-    display: flex;
-    flex-wrap: wrap;
     border: 3px deepskyblue solid;
     border-radius: 40px;
     margin-top: 10px;
-    justify-content: center;
 }
 .doll{
     width: 110px;
     height: 40px;
-    display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 .doll1{
     width: 70px;
-    height: 10px;
 }
 .doll2{
     width: 30px;
-    height: 10px;
 }
 .barbie{
     width: 450px;
     height: 100px;
-    display: flex;
-    justify-content: space-around;
 }
 .usa{
-    width: 100px;
-    height: 100px;
     display: flex;
     flex-wrap: wrap;
     border-radius: 10px;
 }
 .new{
     width: 450px;
-    height: 10px;
-    display: flex;
-    justify-content: space-around;
-
 }
 .try{
     width: 65px;
-    height: 10px;
-    display: flex;
-    justify-content: space-between;
 }
 .new1{
     width: 40px;
@@ -79,50 +79,31 @@
 .london{
     width: 600px;
     height: 230px;
-    display: flex;
-    align-items: center;
 }
 .bus{
     width: 450px;
     height: 150px;
-    display: flex;
     margin: auto;
-    justify-content: space-around;
-    align-items: center;
 }
 .nars{
     width: 150px;
     height: 150px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
 }
 .bus1{
-    width: 100px;
-    height: 100px;
     border-radius: 50%;
 }
 .time{
     width: 120px;
     height: 30px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
 }
 .end{
     width: 100px;
-    height: 15px;
-    display: flex;
-    justify-content: space-between;
 }
 .time1{
     width: 45px;
 }
 .like{
     width: 120px;
-    height: 15px;
-    display: flex;
-    justify-content: space-between;
 }
 .time2{
     width: 35px;
