@@ -1,0 +1,506 @@
+.target{
+    width: 600px;
+    height: auto;
+    background: deepskyblue;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.barbie {
+    width: 600px;
+    height: 30px;
+    background: cornflowerblue;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.dol {
+    width: 150px;
+    height: 30px;
+    /*background: darkorange;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 50px;
+}
+
+.doll {
+    width: 30px;
+    height: 5px;
+    background: darkblue;
+    border-radius: 10px;
+}
+
+.usa {
+    width: 600px;
+    height: 60px;
+    background: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.london {
+    width: 200px;
+    height: 50px;
+}
+
+.street {
+    width: 100px;
+    height: 40px;
+    background: darkblue;
+    border-radius: 10px;
+}
+
+.lol {
+    width: 250px;
+    height: 30px;
+    /*background: darkviolet;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.lo1 {
+    width: 50px;
+    height: 10px;
+    background: darkblue;
+    border-radius: 10px;
+}
+
+.bakerstreet {
+    width: 600px;
+    height: 200px;
+    background: cornflowerblue;
+    display: flex;
+
+}
+
+.chea {
+    width: 200px;
+    height: 150px;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+}
+
+.qwerty {
+    width: 200px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.simple {
+    width: 60px;
+    height: 10px;
+    background: darkblue;
+    border-radius: 20px;
+}
+
+.qwertyu {
+    width: 200px;
+    height: 80px;
+}
+
+.day {
+    width: 200px;
+    height: 60px;
+    /*background: red;*/
+
+}
+
+.qwertyui {
+    width: 200px;
+    height: 30px;
+    /*background: darkmagenta;*/
+    display: flex;
+    justify-content: center;
+}
+
+.tor {
+    width: 100px;
+    height: 30px;
+    background: darkblue;
+    border-radius: 30px;
+}
+
+.art {
+    width: 600px;
+    height: 220px;
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.away {
+    width: 500px;
+    height: 200px;
+    /*background: red;*/
+    border-radius: 40px;
+    border: cornflowerblue solid 3px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.ball {
+    width: 150px;
+    height: 10px;
+    /*background: red;*/
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.bol {
+    width: 90px;
+    height: 10px;
+    background: darkblue;
+    border-radius: 20px;
+}
+
+.bolll {
+    width: 50px;
+    height: 10px;
+    background: darkblue;
+    border-radius: 20px;
+}
+
+.byb {
+    width: 470px;
+    height: 100px;
+    /*background: midnightblue;*/
+    display: flex;
+    column-gap: 20px;
+}
+
+.bear {
+    width: 130px;
+    height: 100px;
+    background: darkblue;
+    border-radius: 10px;
+}
+
+.better {
+    width: 470px;
+    height: 20px;
+    /*background: darkorange;*/
+    display: flex;
+    column-gap: 30px;
+}
+
+.try {
+    width: 100px;
+    height: 10px;
+    /*background: lime;*/
+    display: flex;
+    justify-content: space-between;
+}
+
+.new1 {
+    width: 60px;
+    height: 5px;
+    background: darkblue;
+    border-radius: 10px;
+}
+
+.new2 {
+    width: 30px;
+    height: 5px;
+    background: darkblue;
+    border-radius: 10px;
+}
+
+.bill {
+    width: 600px;
+    height: 240px;
+    background: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bus {
+    width: 200px;
+    height: 200px;
+    /*background: gold;*/
+    display: flex;
+    justify-content: center;
+}
+
+.nars {
+    width: 150px;
+    height: 180px;
+    /*background: pink;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.bus1 {
+    width: 110px;
+    height: 110px;
+    background: lightblue;
+    border-radius: 50%;
+}
+
+.time {
+    width: 130px;
+    height: 30px;
+    /*background: magenta;*/
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.end {
+    width: 120px;
+    height: 10px;
+    /*background: darkorange;*/
+    display: flex;
+    justify-content: space-between;
+}
+
+.time1 {
+    width: 55px;
+    height: 5px;
+    background: lightblue;
+    border-radius: 10px;
+}
+
+.like {
+    width: 130px;
+    height: 10px;
+    /*background: darkblue;*/
+    display: flex;
+    justify-content: space-between;
+}
+
+.time2 {
+    width: 40px;
+    height: 5px;
+    background: lightblue;
+    border-radius: 10px;
+}
+
+.cafe {
+    width: 600px;
+    height: 70px;
+    /*background: darkorange;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cafe1 {
+    width: 150px;
+    height: 20px;
+    /*background: lime;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cafe2 {
+    width: 70px;
+    height: 5px;
+    background: darkblue;
+    border-radius: 10px;
+}
+
+.shop {
+    width: 600px;
+    height: 380px;
+    /*background: lime;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sov {
+    width: 500px;
+    height: 380px;
+    /*background: gold;*/
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.shop1 {
+    width: 150px;
+    height: 170px;
+    /*background: red;*/
+    border: cornflowerblue solid 1px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+.sho {
+    width: 140px;
+    height: 70px;
+    background: darkblue;
+    border-radius: 10px;
+}
+
+.sho1 {
+    width: 140px;
+    height: 70px;
+    /*background: lime;*/
+    font-size: 14px;
+}
+
+.sho2 {
+    width: 150px;
+    height: 30px;
+    /*background: magenta;*/
+    border-top: cornflowerblue solid 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kok {
+    width: 45px;
+    height: 15px;
+    background: darkblue;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+
+.kok1 {
+    width: 60px;
+    height: 20px;
+    display: flex;
+    column-gap: 5px;
+}
+
+.gigi {
+    width: 15px;
+    height: 15px;
+    background: darkblue;
+    border-radius: 50%;
+}
+
+.post {
+    width: 600px;
+    height: 300px;
+    /*background: red;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pasta {
+    width: 500px;
+    height: 200px;
+    /*background: gold;*/
+    display: flex;
+}
+
+.chis {
+    width: 250px;
+    height: 200px;
+    background: darkblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.woww {
+    width: 200px;
+    height: 130px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wow1 {
+    width: 160px;
+    height: 20px;
+    /*background: forestgreen;*/
+    display: flex;
+    justify-content: space-between;
+}
+
+.tyt {
+    width: 50px;
+    height: 10px;
+    background: cornflowerblue;
+    border-radius: 10px;
+}
+
+.tyt1 {
+    width: 100px;
+    height: 10px;
+    background: cornflowerblue;
+    border-radius: 10px;
+}
+
+.wow2 {
+    width: 500px;
+    height: 50px;
+    /*background: darkorchid;*/
+}
+
+.wow3 {
+    width: 500px;
+    height: 50px;
+    /*background: forestgreen;*/
+}
+
+.wow4 {
+    width: 100px;
+    height: 30px;
+    background: cornflowerblue;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.chis1 {
+    width: 250px;
+    height: 200px;
+    background: cornflowerblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.tytt{
+    background: darkblue;
+}
+.rol{
+    width: 600px;
+    height: 100px;
+    background: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ror{
+    width: 200px;
+    height: 70px;
+    /*background: hotpink;*/
+    border-bottom: cornflowerblue solid 3px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+
+}
+.task{
+    width: 30px;
+    height: 30px;
+    background: lightblue;
+    border-radius: 10px;
+}
