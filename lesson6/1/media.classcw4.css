@@ -1,0 +1,100 @@
+@media screen and ( max-width: 375px ){
+    .target{
+        width: 375px;
+        height: 2550px;
+        flex-direction: column;
+    }
+    .ror{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+@media screen and ( max-width: 375px) {
+    .versace{
+        width: 375px;
+        height: 1370px;
+        border: none;
+    }
+    .doll{
+        width: 170px;
+        height: 60px;
+    }
+    .doll1{
+        width: 100px;
+        height: 20px;
+    }
+    .doll2{
+        width: 60px;
+        height: 20px;
+    }
+}
+@media screen and (max-width: 375px){
+    .barbie{
+        width: 375px;
+        height: 1300px ;
+        border-top: solid cornflowerblue 1px;
+        border-bottom: cornflowerblue solid 1px;
+    }
+    .kla {
+        width: 250px;
+        height: 270px;
+        margin-top: 20px;
+        display: flex;
+    }
+    .usa{
+        width: 230px;
+        height: 230px;
+    }
+    .try{
+        width: 200px;
+        height: 30px;
+        margin-top: 10px;
+    }
+    .new1{
+        width: 120px;
+        height: 10px;
+    }
+    .new2{
+        width: 70px;
+        height: 10px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .london{
+        width: 375px;
+        height: 1100px ;
+    }
+.bus{
+    width: 375px;
+    height: 1100px;
+}
+.nars{
+    width: 250px;
+    height: 300px;
+    margin-top: 5px;
+}
+.bus1{
+    width: 230px;
+    height: 230px;
+}
+    .time{
+        width: 230px;
+        height: 50px;
+    }
+    .end{
+        width: 230px;
+        height: 10px;
+    }
+    .time1{
+        width: 110px;
+        height: 10px;
+    }
+    .like{
+        width: 230px;
+        height: 10px;
+    }
+    .time2{
+        width: 70px;
+        height: 10px;
+    }
+}

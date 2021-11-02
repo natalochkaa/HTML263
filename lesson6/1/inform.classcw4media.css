@@ -1,0 +1,117 @@
+.target{
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    box-sizing: border-box;
+
+}
+.body{
+    min-width: 375px;
+}
+.hei{
+    height: 5px;
+}
+.ween{
+    display: flex;
+    justify-content: space-between;
+}
+.und{
+    display: flex;
+    justify-content: space-around;
+}
+.ex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.day{
+    background: lightblue;
+}
+.night{
+    background: midnightblue;
+}
+.bord{
+    border-radius: 20px;
+}
+.wid{
+    width: 100px;
+    height: 100px;
+}
+.ght{
+    height: 10px;
+}
+.kla{
+    width:100px ;
+    height: 120px;
+    /*background: magenta;*/
+    align-items: center;
+}
+.versace{
+    width: 500px;
+    height: 200px;
+    /*background: red;*/
+    margin-top: 10px;
+    border: deepskyblue solid 5px;
+    border-radius: 30px;
+}
+.doll{
+    width: 120px;
+    height: 40px;
+    align-items: center;
+}
+.doll1{
+    width: 70px;
+}
+.doll2{
+    width: 30px;
+}
+.barbie{
+    width: 450px;
+    height: 130px;
+}
+.usa{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.try{
+    width: 85px;
+}
+.new1{
+    width: 50px;
+}
+.new2{
+    width: 30px;
+}
+.london{
+    width: 600px;
+    height: 230px;
+}
+.bus{
+    width: 450px;
+    height: 150px;
+    margin: auto;
+}
+.nars{
+    width: 150px;
+    height: 150px;
+}
+.bus1{
+    border-radius: 50%;
+}
+.time{
+    width: 120px;
+    height: 30px;
+}
+.end{
+    width: 100px;
+}
+.time1{
+    width: 45px;
+}
+.like{
+    width: 120px;
+}
+.time2{
+    width: 35px;
+}

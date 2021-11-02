@@ -1,0 +1,255 @@
+@media screen and (max-width:375px ){
+    .target{
+        height: auto;
+        flex-direction: column;
+    }
+    .th{
+        width: 375px;
+    }
+    .dw{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .vis{
+        height: 10px ;
+    }
+
+}
+@media screen and (max-width:375px ){
+    .versace{
+        height: auto ;
+    }
+    .barbie{
+        height:30px ;
+    }
+    .dol{
+        width: 100px;
+        height: 30px;
+        column-gap: 3px;
+        padding-right: 12px;
+    }
+    .doll{
+        width: 40px;
+    }
+}
+@media screen and (max-width:375px ){
+    .usa{
+        height: 50px;
+    }
+    .street{
+        width: 70px;
+        height: 40px;
+        margin-left: 10px;
+        margin-top: 5px;
+
+    }
+    .lol{
+        width:150px ;
+        height: 20px;
+        column-gap: 3px;
+        padding-right: 5px;
+    }
+    .lo1{
+        width: 40px;
+    }
+    .bakerstreet{
+        width: 375px;
+        height: 200px;
+    }
+    .art{
+        height: 1370px;
+        border-top: solid 3px darkblue;
+    }
+    .away{
+        height: 1370px;
+        border: none;
+    }
+    .ball{
+        width: 170px;
+        height: 60px;
+    }
+    .bol{
+        width: 100px;
+        height: 20px;
+    }
+    .bolll{
+        width: 60px;
+        height: 20px;
+    }
+    .byb{
+        height: 1300px ;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        border-bottom: cornflowerblue solid 1px;
+    }
+    .kla {
+        width: 250px;
+        height: 270px;
+        margin-top: 20px;
+    }
+    .bear{
+        width: 230px;
+        height: 230px;
+    }
+    .try{
+        width: 200px;
+        height: 30px;
+        margin-top: 10px;
+    }
+    .new1{
+        width: 120px;
+    }
+    .new2{
+        width: 70px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .bill{
+        height: 960px ;
+    }
+    .bus{
+        height: 320px;
+    }
+    .nars{
+        width: 250px;
+        height: 300px;
+        margin-top: 5px;
+    }
+    .bus1{
+        width: 230px;
+        height: 230px;
+
+    }
+    .time{
+        width: 230px;
+        height: 50px;
+    }
+    .end{
+        width: 230px;
+    }
+    .time1{
+        width: 110px;
+    }
+    .like{
+        width: 230px;
+    }
+    .time2{
+        width: 70px;
+    }
+    .cafe{
+        height: 70px;
+    }
+    .cafe1{
+        width: 180px;
+        height: 20px;
+    }
+    .cafe2{
+        width: 80px;
+    }
+    .shop{
+        height: 1950px ;
+        justify-content: center;
+        align-items: center;
+        border-bottom: 5px solid cornflowerblue;
+    }
+    .sov{
+        height: 1920px;
+        row-gap: 30px;
+        margin-bottom: 700px;
+    }
+    .shop1{
+        width: 250px;
+        height: 270px ;
+        border-radius: 10px;
+        border: 5px solid cornflowerblue;
+    }
+    .sho{
+        width: 240px;
+        height: 110px;
+    }
+    .sho1{
+        width: 240px;
+        height: 110px;
+        font-size: 23px;
+    }
+    .sho2{
+        width: 250px;
+        height: 50px;
+        border-top: cornflowerblue solid 5px;
+    }
+    .kok{
+        width: 70px;
+        height: 25px;
+    }
+    .kok1{
+        width: 90px;
+        height: 25px;
+    }
+    .gigi{
+        width: 25px;
+        height: 25px;
+    }
+    .post{
+        height: 500px;
+    }
+    .pasta{
+        height: 500px;
+    }
+    .chis{
+        height: 250px;
+    }
+    .woww{
+        width: 300px;
+        height: 180px;
+    }
+    .wow1 {
+        width: 200px;
+        height: 40px;
+    }
+
+    .tyt {
+        width: 50px;
+        height: 20px;
+    }
+
+    .tyt1 {
+        width: 140px;
+        height: 20px;
+    }
+
+    .wow2 {
+        width: 300px;
+        height: 100px;
+        font-size: 23px;
+    }
+
+    .wow3 {
+        width: 300px;
+        height: 50px;
+    }
+    .wow4 {
+        width: 140px;
+        height: 40px;
+        border-radius: 20px;
+        margin-top: 10px;
+    }
+    .chis1{
+        height: 250px;
+
+    }
+    .rol{
+        height: 50px;
+    }
+    .ror{
+        width: 100px;
+        height: 40px;
+        border-bottom: cornflowerblue solid 3px;
+        column-gap: 10px;
+
+    }
+    .task{
+        width: 20px;
+        height: 20px;
+    }
+}
