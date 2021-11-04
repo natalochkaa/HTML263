@@ -1,0 +1,96 @@
+@media screen and (max-width:320px ){
+    .target{
+        max-width: 320px;
+        height: 1000px;
+    }
+    .tw{
+        font-weight: normal;
+    }
+    .fl{
+        display: flex;
+    }
+    .xd{
+        flex-direction: column;
+    }
+    .top{
+        max-width: 320px;
+        height: 50px;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .toplogo img{
+        width: 45px;
+        height: 31px ;
+        margin-top: 20px;
+        margin-left: 14px;
+
+    }
+  .versace{
+      display: none;
+  }
+  .game{
+      width: 35px;
+      height: 30px;
+      row-gap: 4px;
+      margin-top: 10px;
+      margin-right: 17px;
+  }
+  .game1{
+      width: 35px;
+      height: 4px;
+      background: darkorange;
+      border-radius: 50px;
+  }
+  .london{
+      max-width: 320px;
+      height: 250px;
+      margin-left: 0;
+      flex-wrap: wrap;
+      text-align: center;
+      margin-top: 310px;
+  }
+  .usa{
+      width: 280px;
+      height: 34px;
+      font-size: 30px;
+      line-height: 34px;
+  }
+  .state{
+      width: 276px;
+      height: 50px;
+      font-size: 40px;
+      line-height: 46px;
+  }
+  .country{
+      width: 141px;
+      height: 20px;
+      font-size: 15px;
+      line-height: 20px;
+      margin-top: 0 ;
+  }
+    .country:before,
+    .country:after{
+        display: none;
+    }
+    .system{
+        width: 137px;
+        height: 47px;
+        margin-top: 70px;
+    }
+    .case{
+        width: 320px;
+        height: 900px;
+        flex-wrap: wrap;
+        row-gap: 14px;
+        bottom: -25%;
+    }
+    .qwerty{
+        width: 290px;
+        height: 276px;
+        left: 15px;
+        row-gap: 14px;
+        border: silver solid 1px;
+    }
+
+
+}

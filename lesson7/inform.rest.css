@@ -1,0 +1,180 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.target{
+    width: 1440px;
+    height: 800px;
+    background: url("image/fon.png") no-repeat center/cover ;
+}
+.jo{
+    background: darkorange;
+}
+.dis{
+    display: flex;
+}
+.jus{
+    justify-content: center;
+}
+.ali{
+    align-items: center;
+}
+.dark{
+    color: darkorange;
+}
+.wh{
+    color: white;
+}
+.game{
+    /*display: none;*/
+    width: 40px;
+}
+.fo{
+    font-weight: normal;
+}
+.top{
+    width: 1440px;
+    height: 150px ;
+    justify-content: space-around;
+}
+.toplogo{
+    width: 100px;
+    height: 68px ;
+}
+.versace{
+    width: 742px;
+    height: 64px ;
+}
+.barbie{
+    width: 370px;
+    height: 64px;
+    column-gap: 23px;
+    border-right: white solid 1px;
+}
+.menu a{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: white;
+    text-decoration: none;
+}
+.doll{
+    width: 370px;
+    height: 64px;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+.phone{
+    width: 155px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+
+}
+.bro{
+ width: 154px;
+    height: 34px;
+    font-size: 14px;
+    line-height: 19px;
+}
+.street{
+    width: 157px;
+    height: 47px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    border: darkorange solid;
+}
+.london{
+    width: 556px;
+    height: 240px;
+    left: 175px;
+    top: 322px;
+    margin-top: 170px;
+    margin-left: 170px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.usa{
+    width: 430px;
+    height: 57px;
+    font-size: 50px;
+    line-height: 57px;
+}
+.state{
+    width: 500px;
+    height: 85px;
+    font-size: 80px;
+    line-height: 92px;
+
+}
+.country{
+    width: 350px;
+    height: 25px;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 13px;
+}
+.country:before,
+.country:after{
+    content: "";
+    display: block;
+    width: 61px;
+    height: 2px;
+    background: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.system{
+    width: 137px;
+    height: 47px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 13px;
+    border: darkorange solid;
+}
+.case{
+    width: 1440px;
+    height: 330px;
+    column-gap: 31px;
+    position: relative;
+    bottom: -17%;
+}
+.qwerty{
+    width: 349px;
+    height: 328px;
+    background: white;
+    flex-direction: column;
+    /*box-shadow: 10px 5px 5px lightgrey;*/
+}
+.qqq{
+    width: 126px;
+    height: 104px;
+}
+.work{
+    width: 263px;
+    height: 30px;
+    font-size: 26px;
+    line-height: 30px;
+    color: black;
+}
+span{
+    margin-left: 10px;
+}
+.shop{
+    width: 305px;
+    height: 130px;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #656363;
+    margin-top: 20px;
+}
+.ror{
+    width: 230px;
+    height: 130px;
+}
