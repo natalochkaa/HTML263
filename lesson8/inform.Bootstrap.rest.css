@@ -140,6 +140,7 @@ body{
     width: 349px;
     height: 328px;
     background: white;
+    border: solid 1px black;
 }
 .qqq{
     width: 126px;

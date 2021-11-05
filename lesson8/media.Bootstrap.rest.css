@@ -77,15 +77,21 @@
         width: 320px;
         height: 900px;
         flex-wrap: wrap;
-        row-gap: 14px;
         bottom: -25%;
     }
     .qwerty{
         width: 290px;
         height: 276px;
         left: 15px;
-        row-gap: 14px;
-        border: silver solid 1px;
+        /*row-gap: 14px;*/
+    }
+    .shop{
+        width: 290px;
+        height: 150px;
+        font-size: 20px;
+        margin-bottom: 10px;
+        line-height: 20px;
+
     }
 
 
