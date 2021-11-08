@@ -1,0 +1,349 @@
+.target{
+    width: 1442px;
+    height: auto;
+    margin: auto;
+    box-sizing: border-box;
+}
+.acen{
+    align-items: center;
+}
+.too{
+    background: navy;
+}
+.col{
+    color: navy;
+}
+.wr{
+    flex-wrap: wrap;
+}
+.jus{
+    justify-content: center;
+}
+.collapse{
+    margin-right: 100px;
+}
+.navbar-brand{
+    margin-left: 121px;
+}
+.nav-item{
+    padding-left: 30px;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #2E75FF;
+    border: 2px solid #EAEDF5;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.navbar-light .navbar-nav .nav-link{
+    border: 2px solid transparent;
+}
+.barbie{
+    width: 1442px;
+    height: 620px;
+}
+.way{
+    width: 685px;
+    height: 655px;
+    align-items: flex-end;
+}
+.case{
+    width: 450px;
+    height: 550px;
+}
+.country{
+    width: 450px;
+    height: 200px;
+    font-size: 48px;
+    font-weight: 700;
+}
+.place{
+    width: 450px;
+    height: 216px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 32px;
+    margin-top: 40px;
+    justify-content: flex-start;
+}
+.place:before,
+.place:after{
+    content: "";
+    display: block;
+    width: 250px;
+    height: 5px;
+    background: lightgray;
+}
+.week{
+    width: 1442px;
+    height: 500px;
+}
+.room{
+    width: 430px;
+    height: 400px;
+    font-size: 17px;
+    line-height: 32px;
+    margin-top: 40px;
+}
+.room h1{
+    font-size: 20px;
+    line-height: 40px;
+}
+.room p{
+    padding-top: 30px;
+}
+.hour{
+    width: 1440px;
+    height: 729px;
+}
+.car{
+    width: 440px;
+    height: 460px;
+    margin-top: 151px;
+    margin-left: 151px;
+    font-size: 17px;
+    line-height: 32px;
+    color: white;
+}
+.car h1{
+    font-size: 20px;
+    line-height: 40px;
+
+}
+.car p{
+    padding-top: 30px;
+}
+.air{
+    width: 1440px;
+    height: 600px;
+}
+.city{
+    width: 495px;
+    height:450px ;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.city h1{
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.city p{
+    padding-top: 40px;
+    font-size: 17px;
+    line-height: 32px;
+}
+.team img{
+    margin-left: 210px;
+}
+.president{
+    width: 1440px;
+    height: 700px;
+}
+.president h1{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    color: black;
+    padding-bottom: 20px;
+    justify-content: center;
+}
+.face{
+    width: 1200px;
+    height: 620px;
+    margin-left:120px;
+    column-gap: 9px;
+}
+.fuk{
+    width: 394px;
+    height: 136px;
+    border-radius: 10px;
+    border: lightgrey 1px solid;
+}
+.fol img{
+    width: 60px;
+    height: 50px;
+}
+.fot{
+    width:240px;
+    height: 90px;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 32px;
+    padding-left: 30px;
+}
+
+.pay{
+    width: 1440px;
+    height: 864px;
+}
+
+.create{
+    width: 1200px;
+    height: 864px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+.political{
+    width: 1200px;
+    height: 100px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: 4px;
+    margin-top: 30px;
+}
+.expect{
+    width: 546px;
+    height: 604px;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 35px;
+    letter-spacing: -0.4px;
+}
+.pay nav{
+    padding: 20px;
+}
+.stay{
+    width: 495px;
+    height: 639px;
+    font-size: 17px;
+    line-height: 35px;
+}
+.public{
+    width: 1442px;
+    height: 1350px;
+}
+.early {
+    width: 1440px;
+    height: 100px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 4px;
+    padding-top:40px;
+}
+.hard {
+    width: 610px;
+    height: 940px;
+}
+.possible{
+    width: 610px;
+    height: 100px;
+    margin-top: 20px;
+}
+.public button{
+    width: 126px;
+    height: 78px;
+    border: lightgray;
+    border-radius: 10px;
+}
+.public span{
+    margin-left: 18px;
+}
+.new{
+    width: 200px;
+    height: 12px;
+    column-gap: 26px;
+}
+.easy {
+    width: 12px;
+    height: 12px;
+    background: lightskyblue;
+    border-radius: 50%;
+}
+.short {
+    width: 1445px;
+    height: 57px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.current {
+    width: 1220px;
+    height: 150px;
+    column-gap: 10px;
+}
+.current button {
+    width: 395px;
+    height: 64px;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    color: #FAFBFE;
+}
+.traditional {
+    width: 1440px;
+    height: 452px;
+}
+.clear{
+    width: 600px;
+    height: 452px;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 43px;
+    padding-top: 140px;
+}
+.certain{
+    width: 520px;
+    height: 340px;
+}
+.past{
+    width: 420px;
+    height: 224px;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+    margin-top:50px ;
+}
+.past span{
+    display: block;
+    margin-top: 30px;
+}
+.common{
+    width: 306px;
+    height: 69px;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #FAFBFE;
+}
+.difficult{
+    width: 320px;
+    height: 300px;
+    padding-top: 140px;
+    padding-left: 60px;
+}
+
+.sure{
+    width: 1440px;
+    height: 210px;
+    border-top: solid 1px lightgray;
+    justify-content: space-evenly;
+}
+.general{
+    width: 249px;
+    height: 150px;
+    column-gap: 50px;
+}
+.general h1{
+    font-size: 17px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+    color: #A3ADBA;
+}
+.general p{
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+    color: #9EABBB;
+}
